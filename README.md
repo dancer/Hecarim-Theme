@@ -60,13 +60,13 @@ Hecarim Themes offers a diverse palette to suit every coding mood and environmen
 <details>
 <summary>Hecarim Light Pink</summary>
 
-![Hecarim Light Pink Screenshot](./assets/light pink.png)
+![Hecarim Light Pink Screenshot](./assets/lightpink.png)
 </details>
 
 <details>
 <summary>Hecarim Dark Pink</summary>
 
-![Hecarim Dark Pink Screenshot](./assets/dark pink.png)
+![Hecarim Dark Pink Screenshot](./assets/darkpink.png)
 </details>
 
 ## 🚀 Installation
