@@ -3,9 +3,9 @@
 
 # 🎨 Hecarim Themes for VS Code 🖌️
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/YourPublisherName.hecarim-themes?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=YourPublisherName.hecarim-themes)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/YourPublisherName.hecarim-themes?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=7EDDDE)](https://marketplace.visualstudio.com/items?itemName=YourPublisherName.hecarim-themes)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/YourPublisherName.hecarim-themes?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=FFCE5A)](https://marketplace.visualstudio.com/items?itemName=YourPublisherName.hecarim-themes)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/YourPublisherName.hecarim-themes?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=Hecarim.hecarim-theme)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Hecarim.hecarim-theme?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=7EDDDE)](https://marketplace.visualstudio.com/items?itemName=Hecarim.hecarim-theme)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/YourPublisherName.hecarim-themes?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=FFCE5A)](https://marketplace.visualstudio.com/items?itemName=Hecarim.hecarim-theme)
 
 *Elevate your coding experience with the versatile power of Hecarim Themes*
 
@@ -73,30 +73,7 @@ Hecarim Themes offers a diverse palette to suit every coding mood and environmen
 
 1. Open **VS Code**
 2. Launch the **Command Palette** (\`Ctrl+Shift+P\` or \`Cmd+Shift+P\` on macOS)
-3. Type \`ext install YourPublisherName.hecarim-themes\`
+3. Type \`Hecarim\`
 4. Click **Install**
 5. Click **Reload** to activate
 
-## 🎨 Customization
-
-Hecarim Themes support customization! Add these to your \`settings.json\` to personalize your experience:
-
-\`\`\`json
-"workbench.colorCustomizations": {
-    "[Hecarim Dark]": {
-        "activityBar.background": "#1E1E1E",
-        "sideBar.background": "#252526",
-        // Add more customizations here
-    },
-    "[Hecarim Light]": {
-        "activityBar.background": "#F5F5F5",
-        "sideBar.background": "#FFFFFF",
-        // Add more customizations here
-    },
-    // Add customizations for other themes...
-}
-\`\`\`
-      `}
-    </div>
-  );
-}
