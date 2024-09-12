@@ -73,30 +73,6 @@ Hecarim Themes offers a diverse palette to suit every coding mood and environmen
 
 1. Open **VS Code**
 2. Launch the **Command Palette** (\`Ctrl+Shift+P\` or \`Cmd+Shift+P\` on macOS)
-3. Type \`ext install YourPublisherName.hecarim-themes\`
+3. Search for Hecarim Themes
 4. Click **Install**
 5. Click **Reload** to activate
-
-## 🎨 Customization
-
-Hecarim Themes support customization! Add these to your \`settings.json\` to personalize your experience:
-
-\`\`\`json
-"workbench.colorCustomizations": {
-    "[Hecarim Dark]": {
-        "activityBar.background": "#1E1E1E",
-        "sideBar.background": "#252526",
-        // Add more customizations here
-    },
-    "[Hecarim Light]": {
-        "activityBar.background": "#F5F5F5",
-        "sideBar.background": "#FFFFFF",
-        // Add more customizations here
-    },
-    // Add customizations for other themes...
-}
-\`\`\`
-      `}
-    </div>
-  );
-}
