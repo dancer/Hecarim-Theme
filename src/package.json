@@ -1,8 +1,8 @@
 {
   "name": "hecarim-theme",
-  "displayName": "Hecarim",
+  "displayName": "Hecarim Theme",
   "description": "Hecarim is a versatile, modern Visual Studio Code theme collection designed to enhance both readability and aesthetics. It now offers five distinct themes: Dark, Light, Beige, Pink, and Purple. The dark modes feature bold accents, offering deep contrasts that make your code pop, perfect for late-night coding sessions. The light modes provide gentle and comfortable experiences for those who prefer a lighter, more subtle interface. The Beige theme offers a soft, warm ambiance, while the Pink and Purple themes add vibrant, unique options to suit various preferences. Whether you prefer dark or light, subtle or bold, Hecarim delivers style and functionality in one comprehensive package.",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "publisher": "hecarim",
   "author": {
     "name": "dxd",
@@ -63,12 +63,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dancer/hecarim-themes.git"
+    "url": "https://github.com/dancer/hecarim-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/dancer/hecarim-themes/issues"
+    "url": "https://github.com/dancer/hecarim-theme/issues"
   },
-  "homepage": "https://github.com/yourusername/hecarim-themes#readme",
+  "homepage": "https://github.com/yourusername/hecarim-theme#readme",
 "scripts": {
   "vscode:prepublish": "echo Skipping prepublish step",
   "package": "vsce package",

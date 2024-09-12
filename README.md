@@ -1,7 +1,7 @@
     
 <div align="center">
 
-# 🎨 Hecarim Themes for VS Code 🖌️
+# Hecarim Theme for VS Code 🖌️
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/YourPublisherName.hecarim-themes?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=Hecarim.hecarim-theme)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/Hecarim.hecarim-theme?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=7EDDDE)](https://marketplace.visualstudio.com/items?itemName=Hecarim.hecarim-theme)
@@ -11,7 +11,7 @@
 
 </div>
 
-## 🌈 Theme Variations
+## 💫 Theme Variations
 
 Hecarim Themes offers a diverse palette to suit every coding mood and environment:
 
@@ -72,8 +72,7 @@ Hecarim Themes offers a diverse palette to suit every coding mood and environmen
 ## 🚀 Installation
 
 1. Open **VS Code**
-2. Launch the **Command Palette** (\`Ctrl+Shift+P\` or \`Cmd+Shift+P\` on macOS)
+2. Launch the **Extension Palette** (\`Ctrl+Shift+X\` or \`Cmd+Shift+X\` on macOS)
 3. Type \`Hecarim\`
 4. Click **Install**
-5. Click **Reload** to activate
-
+5. Now pick a **Theme**
